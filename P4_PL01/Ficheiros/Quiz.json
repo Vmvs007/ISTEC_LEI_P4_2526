@@ -1,0 +1,23 @@
+[
+  {
+    "pergunta": "Qual e a cor do cavalo branco de Napoleao?",
+    "a": "Preto",
+    "b": "Branco",
+    "c": "Castanho",
+    "resposta": "b"
+  },
+  {
+    "pergunta": "A mae da Maria tem 5 filhas: Segunda, Terça, Quarta e Quinta. Qual o nome da 5 filha?",
+    "a": "Sexta",
+    "b": "Sabado",
+    "c": "Maria",
+    "resposta": "c"
+  },
+    {
+    "pergunta": "Quem meses tem 28 dias?",
+    "a": "1 (Fevereiro)",
+    "b": "Todos",
+    "c": "Nenhum",
+    "resposta": "b"
+  }
+]
